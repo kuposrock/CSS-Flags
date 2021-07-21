@@ -1,0 +1,57 @@
+.flag{
+    margin: 30px;
+}
+
+
+.inline {
+    display: inline-block;
+}
+.twobythreehorizontal {
+    height: 200px;
+    width: 100px;
+    
+}
+.square {
+    height: 200px;
+    width: 200px;
+    
+}
+.threebyfive {
+    height: 67px;
+    width: 333px;
+}
+
+.madagascar {
+    height: 100px;
+    width: 200px;
+}
+.madagascarr {
+    
+    height: 100px;
+    width: 300px;
+}
+
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.white{
+    background-color: #FFFFFF;
+}
+.blue{
+    background-color: #002495;
+}
+.red{
+    background-color: #ED2938;
+}
+.yellow{
+    background-color: #FFCE00;
+}
+.green{
+    background-color: #007E39;
+}
+.black{
+    background-color: #000000;
+}
